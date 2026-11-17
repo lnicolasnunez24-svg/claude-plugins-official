@@ -6,7 +6,7 @@ Las referencias remiten a `fuentes.md`. Valores vigentes a noviembre de 2026. Va
 
 **Validar sin empresa, y si la validación da bien, constituir una SAS con un solo administrador**, siempre que el contador confirme que puede tributar por IVA mínimo.
 
-Motivo: la empresa va a tratar datos personales de terceros y puede ser sancionada con multas de hasta 500.000 UI (sección 1.3). En una sociedad de hecho los socios responden con su patrimonio personal y en forma solidaria; en la SAS, no. La diferencia de costo mensual entre las dos es chica frente a ese riesgo.
+Motivo: la empresa va a tratar datos personales de terceros y puede ser sancionada con multas de hasta 500.000 UI (art. 35 de la Ley 18.331, F1). En una sociedad de hecho los socios responden con su patrimonio personal y en forma solidaria; en la SAS, no. La diferencia de costo mensual entre las dos es chica frente a ese riesgo.
 
 Si el contador indica que la SAS no accede al IVA mínimo, o que su costo real es bastante mayor al estimado acá, la alternativa es la sociedad de hecho con un contrato escrito entre los socios y pasar a SAS antes de llegar a 15 clientes.
 
@@ -86,7 +86,7 @@ ESTIMACIÓN. Los renglones de BPS, IVA y trámites tienen fuente; el resto son r
 
 | Concepto | Sociedad de hecho | SAS | Base |
 |---|---|---|---|
-| BPS | $ 6.900 a $ 15.378 | $ 10.504 a $ 21.008 | SH: 2 × 3.450 si ambos tienen otra cobertura; 2 × 7.689 si ninguno la tiene. SAS: uno o dos administradores a $ 10.504 |
+| BPS | $ 6.900 a $ 15.378 | $ 10.504 a $ 21.008 | SH: 2 × 3.450 si ambos tienen otra cobertura; 2 × 7.689 si ninguno la tiene. SAS: uno o dos administradores a $ 10.504 (F16, F17) |
 | IVA mínimo | $ 1.478 | $ 1.478 | F14. En SAS, sujeto a confirmación |
 | Facturación electrónica | $ 354 a $ 720 | $ 354 a $ 720 | F30 [sin confirmar] |
 | Contador | $ 4.000 a $ 8.000 | $ 4.000 a $ 10.000 | F32 [sin confirmar] |

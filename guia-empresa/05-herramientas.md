@@ -46,8 +46,8 @@ Ese costo es del orden del abono completo. La API no entra en los paquetes B ni 
 
 | Herramienta | Empresa | Situación frente al art. 23 |
 |---|---|---|
-| Tally | Europea, según su propio sitio (no verificado en esta investigación dónde aloja los datos) | La Unión Europea está en la lista de países adecuados (F22) |
-| Brevo | Europea (no verificado en esta investigación dónde aloja los datos) | Ídem |
+| Tally | Empresa europea según información general (no verificado en esta investigación: sede y lugar donde aloja los datos) | La Unión Europea está en la lista de países adecuados (F22) |
+| Brevo | Empresa europea según información general (no verificado en esta investigación: sede y lugar donde aloja los datos) | Ídem |
 | Google | Estados Unidos | Adecuada si figura en el listado del Marco de Privacidad de Datos (F22). No verificado en esta investigación: comprobarlo en el listado del Departamento de Comercio de Estados Unidos |
 | WhatsApp (Meta) | Estados Unidos | Ídem |
 

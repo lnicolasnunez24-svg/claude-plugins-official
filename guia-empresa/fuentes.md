@@ -36,3 +36,38 @@ Todas consultadas el 17/11/2026. "Oficial" indica sitio de un organismo del Esta
 | F18 | [Ley 19.820, SAS (IMPO)](https://www.impo.com.uy/bases/leyes/19820-2019) | Oficial | Responsabilidad limitada; art. 43 aportes del administrador |
 | F19 | [Trámite: registro de SAS persona física](https://www.gub.uy/tramites/registro-sociedad-acciones-simplificada-sas-persona-fisica) (act. 03/11/2026) | Oficial | Costo $ 2.530; hasta 6 socios en línea; comunicación al BCU en 45 días |
 | F20 | Estudios contables que dan el tope de Literal E en $ 1.959.229 para 2026 (gro.com.uy, asystax.com.uy, vía buscador) | No oficial | Equivalente en pesos de 305.000 UI [sin confirmar] |
+| F21 | [DGI, Consulta 6388 (IMPO)](https://www.impo.com.uy/bases/consultas-tributarias/6388-2021) (2021) | Oficial | El inicio de actividades se cuenta desde el primer ingreso gravado |
+| F23 | [BPS: aportación de administradores y representantes legales de SAS](https://www.bps.gub.uy/17795/aportacion-de-administradores-y-representantes-legales-sas.html) | Oficial | Base de 15 BFC, cobertura de salud, no se admite declararlos sin actividad |
+| F31 | Resoluciones DGI 2389/2023 y 2548/2023 sobre incorporación obligatoria a la facturación electrónica, citadas por gosocket.net y smu.org.uy (vía buscador) | No oficial | Obligatoriedad para IVA mínimo y nuevos contribuyentes [sin confirmar] |
+| F30 | Precios publicados por proveedores de facturación electrónica: facturando.uy ($ 290 a $ 590 por mes más IVA), facturar.uy (desde $ 514 más IVA) (vía buscador) | No oficial | Rango de costo mensual [sin confirmar] |
+| F32 | Rangos de honorarios de contador publicados por yo-facturo.com y cuantomecuesta.com (vía buscador, 2026) | No oficial | $ 4.000 a $ 12.000 por mes [sin confirmar] |
+| F34 | [Ley 16.060, art. 39 (IMPO)](https://www.impo.com.uy/bases/leyes/16060-1989) | Oficial | Responsabilidad solidaria de los socios de la sociedad de hecho |
+
+## Datos personales: transferencias internacionales
+
+| # | Fuente | Tipo | Qué respalda |
+|---|---|---|---|
+| F22 | [URCDP, Resolución 63/023](https://www.gub.uy/unidad-reguladora-control-datos-personales/institucional/normativa/resolucion-n-63023) (21/11/2023) | Oficial | Países adecuados: UE y EEE, Argentina, Reino Unido, Suiza, entre otros; organizaciones de EE. UU. del Marco de Privacidad de Datos |
+
+## Herramientas
+
+| # | Fuente | Tipo | Qué respalda |
+|---|---|---|---|
+| F24 | [Tally: precios](https://tally.so/pricing) | Sitio del proveedor | Plan gratuito sin límite de formularios ni respuestas; Pro USD 24 por mes |
+| F25 | [Brevo: precios](https://www.brevo.com/pricing/) | Sitio del proveedor | Plan gratuito con 300 correos por día; Starter USD 9 por mes |
+| F26 | [Meta: precios de la plataforma de WhatsApp Business](https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing) (tarifas vigentes desde 01/10/2026) | Sitio del proveedor | Uruguay en "Resto de América Latina"; 1.000 mensajes de servicio gratuitos por mes. La tarifa por mensaje de marketing (USD 0,074) viene de un tercero (wespeak.pro) [sin confirmar] |
+| F33 | Precio de Google Workspace Business Starter en Estados Unidos, citado por eesel.ai y otros (vía buscador, 2026) | No oficial | USD 7 anual y USD 8,40 flexible por usuario; precio para Uruguay [sin confirmar] |
+
+## Valores de referencia
+
+| # | Fuente | Tipo | Qué respalda |
+|---|---|---|---|
+| F27 | [INE: Unidad Indexada, noviembre 2026](https://www5.ine.gub.uy/documents/Estad%C3%ADsticasecon%C3%B3micas/PDF/UI/2026/UI%20Noviembre%202026.pdf) (05/11/2026) | Oficial, leída vía buscador | UI del 17/11/2026: $ 6,7054 |
+| F28 | Valor de la UR de noviembre de 2026 publicado por gpa.uy (vía buscador) | No oficial | UR $ 1.948,97 [sin confirmar] |
+| F29 | Infobae, cotización de apertura del dólar en Uruguay, 16/11/2026 (vía buscador) | Prensa | Dólar a $ 40,59 [sin confirmar] |
+
+## Fuentes buscadas y no utilizadas como respaldo
+
+- Notas sobre programas de fidelización de Argentina (Loybox, Tienda de Puntos): precios en otra moneda y otro mercado; no se usaron.
+- Diagnóstico de digitalización de empresas uruguayas (ANII, 2022) y Encuesta a Pequeñas Empresas 2024 (MIEM-ANDE): no cubren microempresas de barrio ni el uso de registros de clientes; no se usaron para estimar demanda.
+- ANDE: no se encontraron las bases vigentes de programas de apoyo aplicables; ver `pendientes.md`.
