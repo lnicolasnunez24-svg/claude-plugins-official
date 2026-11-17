@@ -3,8 +3,10 @@
 ## Estado (17/11/2026)
 
 - Fase 1 (investigación legal, formalización, sondeo de precios): terminada. Diagnóstico e índice entregados en el chat.
-- Fase 2 (redacción de la guía): **no iniciada, a la espera de aprobación del índice**.
-- Secciones escritas: ninguna. Archivos existentes: `fuentes.md`, `pendientes.md`.
+- Índice aprobado por el usuario el 17/11/2026. Decisión tomada: el beneficio seguro reemplaza al sorteo en el embudo; el sorteo autorizado queda como proyecto opcional.
+- Fase 2 (redacción): en curso.
+- Secciones terminadas: 01, 02, 03.
+- Secciones que faltan: 04, 05, 06, 07, 08, 09, 00-resumen, actualización final de fuentes y verificación.
 
 ## No confirmado y a quién consultarlo
 
