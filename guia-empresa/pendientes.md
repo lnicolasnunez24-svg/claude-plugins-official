@@ -5,8 +5,8 @@
 - Fase 1 (investigación legal, formalización, sondeo de precios): terminada. Diagnóstico e índice entregados en el chat.
 - Índice aprobado por el usuario el 17/11/2026. Decisión tomada: el beneficio seguro reemplaza al sorteo en el embudo; el sorteo autorizado queda como proyecto opcional.
 - Fase 2 (redacción): en curso.
-- Secciones terminadas: 01, 02, 03.
-- Secciones que faltan: 04, 05, 06, 07, 08, 09, 00-resumen, actualización final de fuentes y verificación.
+- Secciones terminadas: 01, 02, 03, 04, 05, 06.
+- Secciones que faltan: 07, 08, 09, 00-resumen, actualización final de fuentes y verificación.
 
 ## No confirmado y a quién consultarlo
 
