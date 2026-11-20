@@ -1,0 +1,1 @@
+¿Cómo sabés cuánto estás usando? Claude mide todo en tokens. Son como su moneda: cada mensaje, cada archivo y cada respuesta gasta tokens. Lo ves en Configuración, Uso. Ahí aparece tu límite de la sesión y de la semana. Para que te rinda: elegí el modelo adecuado, hacé chats cortos y de un solo tema, y subí archivos solo cuando hagan falta.

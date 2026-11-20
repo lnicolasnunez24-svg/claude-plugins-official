@@ -1,0 +1,1 @@
+Ahora, el límite. Claude lee muy bien documentos cortos. Una cotización de cuatro páginas entra sobrada. Una póliza de treinta páginas funciona, con cuidado. Pero una póliza con su condicionado, de doscientas páginas, puede llenar la ventana de contexto. Ahí Claude pierde detalle, mezcla datos o no termina.

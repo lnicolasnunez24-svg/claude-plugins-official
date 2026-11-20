@@ -1,0 +1,1 @@
+ManyChat, o herramientas similares, sirve para automatizar WhatsApp. Armás un agente que contesta al instante, a cualquier hora. Pide datos, los guarda con etiquetas y califica a los leads antes de que lleguen a vos. Pero tiene límites: no sabe tanto de coberturas y excepciones, funciona mejor con preguntas cerradas, y cuando la charla se complica tiene que derivar a una persona.

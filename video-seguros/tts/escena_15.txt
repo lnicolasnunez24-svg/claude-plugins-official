@@ -1,0 +1,1 @@
+La regla es ir de menos a más. Escalón uno: adjuntar y preguntar. Muchas veces alcanza. Si ves que el chat se llena o el resultado no tiene detalle, subí al escalón dos: extraer a texto. Y si el documento es enorme, escalón tres: agentes en paralelo.

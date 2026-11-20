@@ -1,0 +1,1 @@
+Un ejemplo: las renovaciones del mes. Le pedís a Claude que tome del ce erre eme las pólizas que vencen este mes, que arme un mensaje personalizado para cada cliente con su deeplink, y que lo guarde en una columna del ce erre eme. Te queda una tabla: cliente, mensaje y un botón para abrir WhatsApp. Combinalo con una skill para el tono, y con una rutina mensual.

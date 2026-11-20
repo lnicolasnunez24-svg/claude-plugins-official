@@ -1,0 +1,1 @@
+Ahora, las integraciones: conectar Claude con las herramientas que ya usás. Se agregan en cinco pasos. Entrás a Configuración. Vas a Conectores. Tocás Explorar o Agregar. Elegís la herramienta, por ejemplo Notion, y tocás Conectar. Y por último autorizás el acceso. Los nombres de los menús pueden cambiar un poco con el tiempo, pero el camino es ese.

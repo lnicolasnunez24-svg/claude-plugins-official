@@ -1,0 +1,1 @@
+Ahora, el correo. Con la integración de Gmail, Claude puede buscar y leer correos, hilos y adjuntos. Puede redactar respuestas y dejarlas como borrador en tu bandeja. Y puede etiquetar y ordenar tus correos. Se conecta igual que Notion: Configuración, Conectores, Gmail. Y con las mismas reglas de permisos.

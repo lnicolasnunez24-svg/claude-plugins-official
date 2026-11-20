@@ -1,0 +1,1 @@
+Así se ve un pedido de agentes en paralelo, en modo Cowork. Le pedís dos tipos de agentes. El primero analiza el pe de efe de a cinco páginas, guarda lo importante en un archivo de texto, y se lanzan varios a la vez hasta cubrir todo el archivo. El segundo arranca cuando todos terminaron, y arma un resumen final con todos los extractos. Pausá el video si querés copiar el texto.

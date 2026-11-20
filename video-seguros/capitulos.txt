@@ -1,9 +1,9 @@
 0:00 Intro
 0:45 Conceptos básicos
 3:14 Integraciones
-4:58 Análisis de documentos
-7:08 Rutinas
-7:37 Correo
-9:35 ManyChat (o similares)
-10:58 WhatsApp templates
-12:31 Seguridad
+4:59 Análisis de documentos
+7:09 Rutinas
+7:39 Correo
+9:36 ManyChat (o similares)
+10:59 WhatsApp templates
+12:32 Seguridad

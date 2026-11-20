@@ -1,0 +1,1 @@
+Una rutina es una tarea programada: Claude la hace solo, todos los días, sin que se lo pidas. Por ejemplo, de lunes a viernes a las ocho y media, que revise tu ce erre eme en Notion y te liste tres cosas: las pólizas que vencen en los próximos treinta días, los leads sin contacto hace más de tres días, y los seguimientos de hoy. Y cuando llegás, el resumen ya está listo.

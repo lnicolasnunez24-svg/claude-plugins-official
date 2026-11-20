@@ -1,0 +1,1 @@
+Ojo con los permisos: empezá con lo mínimo. Primero, solo lectura. En la configuración del conector, habilitá únicamente las acciones de lectura. Así Claude consulta tu ce erre eme, pero no modifica ni borra nada. Segundo: cuando Claude te pida usar una herramienta en el chat, elegí "Permitir una vez", no "Permitir siempre". Así aprobás vos cada acción.

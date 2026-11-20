@@ -1,0 +1,1 @@
+Un pedido típico. Le decís: "respondé a Pedro con la cotización de Hogar". Claude aplica tu skill de formato: el saludo, la estructura, el tono y la firma de tu agencia. Y deja el mail en Borradores. No lo envía. Vos lo revisás y lo mandás. La regla: pedile siempre "dejalo en borrador". Nunca le pidas que le envíe directo a un cliente.

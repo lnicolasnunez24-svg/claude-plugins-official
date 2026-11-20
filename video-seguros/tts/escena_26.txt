@@ -1,0 +1,1 @@
+Ahora, los templates de WhatsApp. La clave es el deeplink: un link que ya trae a quién mandarle y qué decirle. Lo abrís, y WhatsApp arma el chat listo. Solo tocás enviar. Tiene dos partes. El número, con código de país, sin el signo más, sin espacios ni guiones. Y el mensaje, codificado para el link. De eso se encarga Claude. El envío sigue siendo tuyo.

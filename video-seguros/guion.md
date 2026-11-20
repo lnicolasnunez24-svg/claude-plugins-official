@@ -2,7 +2,7 @@
 
 Video tutorial para corredores y ejecutivos de seguros. Basado en la presentación de Federico Zolkwer.
 
-**Duración estimada total: 13:46** (31 escenas). Estimación a ~150 palabras por minuto + 1,5 s de aire por escena.
+**Duración estimada total: 13:47** (31 escenas). Estimación a ~150 palabras por minuto + 1,5 s de aire por escena.
 
 Lo que está entre `…` no está en el PDF: revisalo. Si lo aprobás, se lee sin los corchetes; si no, se borra.
 
@@ -30,26 +30,26 @@ Lo que está entre `…` no está en el PDF: revisalo. Si lo aprobás, se lee si
 |---|---|---|---|---|
 | 08 | Integraciones (p.10-11) | Ahora, las integraciones: conectar Claude con las herramientas que ya usás. Se agregan en cinco pasos. Entrás a Configuración. Vas a Conectores. Tocás Explorar o Agregar. Elegís la herramienta, por ejemplo Notion, y tocás Conectar. Y por último autorizás el acceso. Los nombres de los menús pueden cambiar un poco con el tiempo, pero el camino es ese. | Diagrama de 5 pasos numerados que se van encendiendo: Configuración → Conectores → Explorar / Agregar → Notion → Conectar → Autorizar acceso. Sin capturas. | 25 s |
 | 09 | Integraciones (p.12) | ¿Qué es Notion? Un espacio de trabajo todo en uno, compartido con tu equipo. Ahí podés tener documentos, como tus procesos de venta. Bases de datos, con clientes, pólizas y vencimientos. Un wiki con el manual de productos y aseguradoras. Y las tareas de seguimiento. Con el conector, Claude puede leer, buscar y actualizar todo eso por vos. | 4 tarjetas: Documentos · Bases de datos · Wiki · Tareas, con su ejemplo. Remate en naranja: «Con el conector, Claude lee, busca y actualiza». | 25 s |
-| 10 | Integraciones (p.13) | Mirá este ejemplo. Una tabla en Notion con tus clientes lo que se llama un CRM, tu base de clientes: el ramo, cuándo vence y en qué estado está. Con eso le podés pedir a Claude: «¿qué pólizas vencen en los próximos 30 días?». O: «agregá a Ana R. como lead de Vida con lo que hablamos hoy». O incluso: «armá un mail de renovación para cada cliente en estado Renovar». | Tabla Cliente/Ramo/Vence/Estado (María G., Pedro L., Ana R., Juan M.) con rótulo **«Datos de ejemplo»**. A la derecha, los 3 pedidos aparecen como globos de chat. | 30 s |
+| 10 | Integraciones (p.13) | Mirá este ejemplo. Una tabla en Notion con tus clientes. Es lo que se llama un CRM: tu base de clientes. Ahí tenés el ramo, cuándo vence y en qué estado está. Con eso le podés pedir a Claude: «¿qué pólizas vencen en los próximos 30 días?». O: «agregá a Ana R. como lead de Vida con lo que hablamos hoy». O incluso: «armá un mail de renovación para cada cliente en estado Renovar». | Tabla Cliente/Ramo/Vence/Estado (María G., Pedro L., Ana R., Juan M.) con rótulo **«Datos de ejemplo»**. A la derecha, los 3 pedidos aparecen como globos de chat. | 31 s |
 | 11 | Integraciones (p.15) | Ojo con los permisos: empezá con lo mínimo. Primero, solo lectura. En la configuración del conector, habilitá únicamente las acciones de lectura. Así Claude consulta tu CRM, pero no modifica ni borra nada. Segundo: cuando Claude te pida usar una herramienta en el chat, elegí «Permitir una vez», no «Permitir siempre». Así aprobás vos cada acción. | Dos bloques: «Solo lectura» (ícono ojo, ruta Configuración → Conectores → Notion) y «Permitir una vez» vs. «Permitir siempre» (este último tachado). | 24 s |
 
-## 04 Análisis de documentos  ·  empieza en 4:59
+## 04 Análisis de documentos  ·  empieza en 5:00
 
 | # | Capítulo | Texto para leer | Qué se ve en pantalla | Dur. |
 |---|---|---|---|---|
 | 12 | Análisis de documentos (p.16-17) | Pasemos a los documentos. Hay tres formas de dárselos a Claude. Una: arrastrás el archivo al chat. Es lo más rápido para un documento puntual. Dos: en Cowork le das acceso a una carpeta, y Claude decide qué abrir y cuándo. Ahí usá copias, porque Cowork puede modificar archivos. Tres: por una integración, si tus documentos ya están organizados en Notion o en Drive. Claude te pide permiso para leerlos. | 3 tarjetas numeradas: En el chat · Carpeta en Cowork · Integración. Cada una con su nota abajo («Usá copias» resaltado). | 30 s |
 | 13 | Análisis de documentos (p.18) | Ahora, el límite. Claude lee muy bien documentos cortos. Una cotización de cuatro páginas entra sobrada. Una póliza de treinta páginas funciona, con cuidado. Pero una póliza con su condicionado, de doscientas páginas, puede llenar la ventana de contexto. Ahí Claude pierde detalle, mezcla datos o no termina. | Tres barras que se llenan animadas: 4 págs (verde, «Sobra espacio») · 30 págs (amarilla, «Con cuidado») · 200 págs (naranja, «Contexto lleno»). | 21 s |
-| 14 | Análisis de documentos (p.19) | Para eso hay dos soluciones. La primera: extraer y después trabajar. Un chat lee el PDF y lo pasa a texto, solo con lo importante. Después, otro chat trabaja sobre ese texto. Sirve para documentos medianos. La segunda: dividir y consolidar. Varios agentes o sea, varias tareas de Claude trabajando a la vez leen partes distintas del archivo en paralelo. Y uno final junta todo. Es para pólizas y condicionados enormes. | Diagrama 1: PDF → Chat 1 extrae → Chat 2 usa el .txt. Diagrama 2: PDF → Pág. 1-5 / 6-10 / 11-15 → Agente final consolida. | 30 s |
+| 14 | Análisis de documentos (p.19) | Para eso hay dos soluciones. La primera: extraer y después trabajar. Un chat lee el PDF y lo pasa a texto, solo con lo importante. Después, otro chat trabaja sobre ese texto. Sirve para documentos medianos. La segunda: dividir y consolidar. Varios agentes, o sea, varias tareas de Claude trabajando a la vez, leen partes distintas del archivo en paralelo. Y uno final junta todo. Es para pólizas y condicionados enormes. | Diagrama 1: PDF → Chat 1 extrae → Chat 2 usa el .txt. Diagrama 2: PDF → Pág. 1-5 / 6-10 / 11-15 → Agente final consolida. | 30 s |
 | 15 | Análisis de documentos (p.20) | La regla es ir de menos a más. Escalón uno: adjuntar y preguntar. Muchas veces alcanza. Si ves que el chat se llena o el resultado no tiene detalle, subí al escalón dos: extraer a texto. Y si el documento es enorme, escalón tres: agentes en paralelo. | Escalera de 3 escalones que se construye: 1 Adjuntar y preguntar · 2 Extraer a texto · 3 Agentes en paralelo. | 20 s |
 | 16 | Análisis de documentos (p.21) | Así se ve un pedido de agentes en paralelo, en modo Cowork. Le pedís dos tipos de agentes. El primero analiza el PDF de a cinco páginas, guarda lo importante en un archivo de texto, y se lanzan varios a la vez hasta cubrir todo el archivo. El segundo arranca cuando todos terminaron, y arma un resumen final con todos los extractos. Pausá el video si querés copiar el texto. | Izquierda: el prompt completo del PDF en tipografía monoespaciada. Derecha: flujo polizas/autos-sura.pdf → Agente 1 × N → resumenes-txt/ → Agente 2 resumen final .txt. | 30 s |
 
-## 05 Rutinas  ·  empieza en 7:10
+## 05 Rutinas  ·  empieza en 7:11
 
 | # | Capítulo | Texto para leer | Qué se ve en pantalla | Dur. |
 |---|---|---|---|---|
 | 17 | Rutinas (p.14) | Una rutina es una tarea programada: Claude la hace solo, todos los días, sin que se lo pidas. Por ejemplo, de lunes a viernes a las ocho y media, que revise tu CRM en Notion y te liste tres cosas: las pólizas que vencen en los próximos 30 días, los leads sin contacto hace más de tres días, y los seguimientos de hoy. Y cuando llegás, el resumen ya está listo. | Reloj «Lunes a viernes, 8:30» + el pedido entre comillas. Después entra la tarjeta oscura «Tu resumen de hoy» con 3 puntos y rótulo **«Datos de ejemplo»**. | 30 s |
 
-## 06 Correo  ·  empieza en 7:40
+## 06 Correo  ·  empieza en 7:41
 
 | # | Capítulo | Texto para leer | Qué se ve en pantalla | Dur. |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Lo que está entre `…` no está en el PDF: revisalo. Si lo aprobás, se lee si
 | 21 | Correo (p.26) | Para encontrar un correo, pedíselo como a un asistente. «Traeme el último mail de Sura con la cotización de Pedro L.». «¿Qué siniestros me reportaron esta semana?». «¿Qué clientes me escribieron y siguen sin respuesta hace más de dos días?». O: «buscá la póliza firmada de María G. y guardala en su carpeta». | Los 4 pedidos aparecen como globos de chat, uno por vez, cada uno con su ícono. | 23 s |
 | 22 | Correo (p.27) | Juntemos todo. Una rutina diaria, a las ocho, para el seguimiento de siniestros con los ejecutivos. Claude mira en Notion cuáles siguen abiertos. Busca en Drive las fotos de cada siniestro. Y en Gmail te deja los borradores. Tres herramientas, una sola tarea. | Reloj «Todos los días, 8:00». Tres bloques conectados: Notion (abiertos) → Drive (fotos) → Gmail (borradores), rótulo **«Datos de ejemplo»**. | 19 s |
 
-## 07 ManyChat (o similares)  ·  empieza en 9:38
+## 07 ManyChat (o similares)  ·  empieza en 9:39
 
 | # | Capítulo | Texto para leer | Qué se ve en pantalla | Dur. |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ Lo que está entre `…` no está en el PDF: revisalo. Si lo aprobás, se lee si
 | 24 | ManyChat (o similares) (p.30) | Mirá cómo se ve. Alguien escribe: «quiero cotizar un seguro para mi auto». El agente pregunta qué auto es y de qué año. «Corolla 2021». Pregunta en qué barrio lo guarda de noche. «Pocitos». Y le avisa que un asesor le escribe en minutos. Mientras, guardó todo: ramo, vehículo, zona y estado: lead caliente. Vos recibís el lead completo, listo para cotizar. Menos tiempo preguntando, más tiempo vendiendo. | Conversación tipo chat que se va escribiendo (globos genéricos, no captura de WhatsApp). A la derecha aparecen las etiquetas: ramo: Auto · vehículo: Corolla 2021 · zona: Pocitos · estado: Lead caliente. Rótulo «Ejemplo». | 29 s |
 | 25 | ManyChat (o similares) (p.31) | Y acá entra Claude. ManyChat tiene las conversaciones y las etiquetas de cada lead. Claude las ordena, resume la charla, evita duplicados y propone el próximo paso. Todo termina en tu CRM de Notion, con resumen, estado y fecha de seguimiento. Y lo podés dejar como rutina diaria: «tomá los leads nuevos de ManyChat de las últimas 24 horas, y creá o actualizá su ficha en Notion». | Flujo: ManyChat → Claude → CRM en Notion. Abajo, banda oscura con el texto de la rutina diaria. | 28 s |
 
-## 08 WhatsApp templates  ·  empieza en 11:01
+## 08 WhatsApp templates  ·  empieza en 11:02
 
 | # | Capítulo | Texto para leer | Qué se ve en pantalla | Dur. |
 |---|---|---|---|---|
 | 26 | WhatsApp templates (p.32-33) | Ahora, los templates de WhatsApp. La clave es el deeplink: un link que ya trae a quién mandarle y qué decirle. Lo abrís, y WhatsApp arma el chat listo. Solo tocás enviar. Tiene dos partes. El número, con código de país, sin el signo más, sin espacios ni guiones. Y el mensaje, codificado para el link. De eso se encarga Claude. El envío sigue siendo tuyo. | El link de ejemplo grande (wa.me/59899123456?text=…) con el número resaltado en naranja y el mensaje en amarillo. Debajo: Número · Mensaje · Resultado. Rótulo «Ejemplo». | 28 s |
 | 27 | WhatsApp templates (p.34) | Un ejemplo: las renovaciones del mes. Le pedís a Claude que tome del CRM las pólizas que vencen este mes, que arme un mensaje personalizado para cada cliente con su deeplink, y que lo guarde en una columna del CRM. Te queda una tabla: cliente, mensaje y un botón para abrir WhatsApp. Combinalo con una skill para el tono, y con una rutina mensual. | Pedido a la izquierda. Tabla Cliente/Mensaje/Link (María G., Pedro L., Juan M.) con botones verdes «Abrir WhatsApp» y rótulo **«Datos de ejemplo»**. | 27 s |
-| 28 | WhatsApp templates (p.35) | ¿Se puede automatizar el envío masivo? Sí, pero por dos caminos con riesgos muy distintos. El no oficial: herramientas que automatizan tu WhatsApp por fuera de la API de Meta la empresa dueña de WhatsApp. Es fácil de armar, pero Meta te puede dar de baja el número y perdés el canal con tus clientes. El oficial: la API de WhatsApp Business, directo con Meta o con un proveedor certificado. Es más técnica: solo permite envíos masivos con templates aprobados, y no podés mandar mensajes libres a quien no te escribió. | Dos columnas: «No oficial» (alerta, 3 puntos) vs. «Oficial · API de WhatsApp Business» (escudo, 3 puntos). | 38 s |
+| 28 | WhatsApp templates (p.35) | ¿Se puede automatizar el envío masivo? Sí, pero por dos caminos con riesgos muy distintos. El no oficial: herramientas que automatizan tu WhatsApp por fuera de la API de Meta, la empresa dueña de WhatsApp. Es fácil de armar, pero Meta te puede dar de baja el número y perdés el canal con tus clientes. El oficial: la API de WhatsApp Business, directo con Meta o con un proveedor certificado. Es más técnica: solo permite envíos masivos con templates aprobados, y no podés mandar mensajes libres a quien no te escribió. | Dos columnas: «No oficial» (alerta, 3 puntos) vs. «Oficial · API de WhatsApp Business» (escudo, 3 puntos). | 38 s |
 
-## 09 Seguridad  ·  empieza en 12:34
+## 09 Seguridad  ·  empieza en 12:35
 
 | # | Capítulo | Texto para leer | Qué se ve en pantalla | Dur. |
 |---|---|---|---|---|

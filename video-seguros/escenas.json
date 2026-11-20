@@ -66,8 +66,8 @@
   "n": 10,
   "cap": 3,
   "capitulo": "03 Integraciones",
-  "texto": "Mirá este ejemplo. Una tabla en Notion con tus clientes lo que se llama un CRM, tu base de clientes: el ramo, cuándo vence y en qué estado está. Con eso le podés pedir a Claude: «¿qué pólizas vencen en los próximos 30 días?». O: «agregá a Ana R. como lead de Vida con lo que hablamos hoy». O incluso: «armá un mail de renovación para cada cliente en estado Renovar».",
-  "habla_est": 28.4
+  "texto": "Mirá este ejemplo. Una tabla en Notion con tus clientes. Es lo que se llama un CRM: tu base de clientes. Ahí tenés el ramo, cuándo vence y en qué estado está. Con eso le podés pedir a Claude: «¿qué pólizas vencen en los próximos 30 días?». O: «agregá a Ana R. como lead de Vida con lo que hablamos hoy». O incluso: «armá un mail de renovación para cada cliente en estado Renovar».",
+  "habla_est": 29.6
  },
  {
   "n": 11,
@@ -94,7 +94,7 @@
   "n": 14,
   "cap": 4,
   "capitulo": "04 Análisis de documentos",
-  "texto": "Para eso hay dos soluciones. La primera: extraer y después trabajar. Un chat lee el PDF y lo pasa a texto, solo con lo importante. Después, otro chat trabaja sobre ese texto. Sirve para documentos medianos. La segunda: dividir y consolidar. Varios agentes o sea, varias tareas de Claude trabajando a la vez leen partes distintas del archivo en paralelo. Y uno final junta todo. Es para pólizas y condicionados enormes.",
+  "texto": "Para eso hay dos soluciones. La primera: extraer y después trabajar. Un chat lee el PDF y lo pasa a texto, solo con lo importante. Después, otro chat trabaja sobre ese texto. Sirve para documentos medianos. La segunda: dividir y consolidar. Varios agentes, o sea, varias tareas de Claude trabajando a la vez, leen partes distintas del archivo en paralelo. Y uno final junta todo. Es para pólizas y condicionados enormes.",
   "habla_est": 28.4
  },
  {
@@ -192,7 +192,7 @@
   "n": 28,
   "cap": 8,
   "capitulo": "08 WhatsApp templates",
-  "texto": "¿Se puede automatizar el envío masivo? Sí, pero por dos caminos con riesgos muy distintos. El no oficial: herramientas que automatizan tu WhatsApp por fuera de la API de Meta la empresa dueña de WhatsApp. Es fácil de armar, pero Meta te puede dar de baja el número y perdés el canal con tus clientes. El oficial: la API de WhatsApp Business, directo con Meta o con un proveedor certificado. Es más técnica: solo permite envíos masivos con templates aprobados, y no podés mandar mensajes libres a quien no te escribió.",
+  "texto": "¿Se puede automatizar el envío masivo? Sí, pero por dos caminos con riesgos muy distintos. El no oficial: herramientas que automatizan tu WhatsApp por fuera de la API de Meta, la empresa dueña de WhatsApp. Es fácil de armar, pero Meta te puede dar de baja el número y perdés el canal con tus clientes. El oficial: la API de WhatsApp Business, directo con Meta o con un proveedor certificado. Es más técnica: solo permite envíos masivos con templates aprobados, y no podés mandar mensajes libres a quien no te escribió.",
   "habla_est": 36.4
  },
  {
